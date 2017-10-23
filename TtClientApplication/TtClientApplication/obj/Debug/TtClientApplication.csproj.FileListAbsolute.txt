@@ -1,0 +1,8 @@
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\bin\Debug\TtClientApplication.exe.config
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\bin\Debug\TtClientApplication.exe
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\bin\Debug\TtClientApplication.pdb
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\obj\Debug\TtClientApplication.Properties.Resources.resources
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\obj\Debug\TtClientApplication.csproj.GenerateResource.Cache
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\obj\Debug\TtClientApplication.csproj.CoreCompileInputs.cache
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\obj\Debug\TtClientApplication.exe
+E:\cSharpWorkSpace\tt_client\TtClientApplication\TtClientApplication\obj\Debug\TtClientApplication.pdb
